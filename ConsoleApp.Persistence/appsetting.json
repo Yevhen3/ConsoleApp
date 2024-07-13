@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=(localdb)\\DESKTOP-QUU2DMM\\SQLEXPRESS;Database=ConsoleAppDb;Trusted_Connection=True;"
+  }
+}
